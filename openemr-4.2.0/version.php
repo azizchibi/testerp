@@ -1,5 +1,5 @@
 <?php
-// Software version identification.
+// Software version identification.hhhhhh
 // This is used for display purposes, and also the major/minor/patch
 // numbers are stored in the database and used to determine which sql
 // upgrade file is the starting point for the next upgrade.
